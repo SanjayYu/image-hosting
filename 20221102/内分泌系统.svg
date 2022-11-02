@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>循环系统@2x</title>
+    <defs>
+        <linearGradient x1="19.0585892%" y1="15.1911911%" x2="85.672306%" y2="80.9209724%" id="linearGradient-1">
+            <stop stop-color="#FEA2A2" offset="0%"></stop>
+            <stop stop-color="#FB6B6B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="智能问诊" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="智能问诊1" transform="translate(-1261.000000, -360.000000)">
+            <g id="部位选择图" transform="translate(1047.000000, 316.000000)">
+                <g id="编组-10" transform="translate(48.650407, 43.861650)">
+                    <g id="循环系统" transform="translate(165.650407, 0.138350)">
+                        <ellipse id="circle" fill="#FFF3F3" cx="27.8495935" cy="27.8774272" rx="27.8495935" ry="27.8774272"></ellipse>
+                        <g id="编组-9" transform="translate(14.000000, 15.000000)">
+                            <path d="M4.59989286,0.00116974636 L4.78285714,0.00226329832 C9.56571429,0.00226329832 8.02285714,10.4691178 13.4228571,10.4691178 L13.374,10.467 L13.5515826,10.4614874 C18.6264085,10.1009025 17.5196939,0.00452659663 22.2171429,0.00452659663 C25.92,-0.151695112 27,7.81561204 27,12.658485 C27,17.501358 25.92,25 22.5257143,25 C18.3769366,25 17.4418666,17.5622085 13.3192208,17.5017288 C9.24639208,17.6260639 8.60458189,24.9977367 4.47428571,24.9977367 C1.08,24.9977367 0,17.4990947 0,12.6562217 L0.000907142857,12.4115264 C0.0367285714,7.55002837 1.14171429,-0.151354715 4.78285714,0.00226329832 Z" id="形状结合" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+                            <rect id="矩形" fill="#EE4B4B" x="11.4171429" y="7.81334874" width="4.32" height="1.24977367" rx="0.621"></rect>
+                            <rect id="矩形备份-12" fill="#EE4B4B" x="11.4171429" y="19.0613118" width="4.32" height="1.24977367" rx="0.621"></rect>
+                            <rect id="矩形备份-9" fill="#EE4B4B" opacity="0.661063058" x="10.4914286" y="5.62624481" width="6.17142857" height="1.24977367" rx="0.621"></rect>
+                            <rect id="矩形备份-13" fill="#EE4B4B" opacity="0.663695126" x="9.56571429" y="21.2484157" width="8.02285714" height="1.24977367" rx="0.621"></rect>
+                            <rect id="矩形备份-11" fill="#EE4B4B" opacity="0.48265439" x="9.56571429" y="3.43914089" width="8.02285714" height="1.24977367" rx="0.621"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
