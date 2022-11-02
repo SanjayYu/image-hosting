@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>循环系统备份 3@2x</title>
+    <defs>
+        <linearGradient x1="24.6651002%" y1="17.3966471%" x2="100%" y2="92.3465838%" id="linearGradient-1">
+            <stop stop-color="#FEA2A2" offset="0%"></stop>
+            <stop stop-color="#FB6B6B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="智能问诊" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="智能问诊1" transform="translate(-1178.000000, -360.000000)">
+            <g id="部位选择图" transform="translate(1047.000000, 316.000000)">
+                <g id="编组-10" transform="translate(48.650407, 43.861650)">
+                    <g id="循环系统备份-3" transform="translate(82.650407, 0.138350)">
+                        <ellipse id="circle" fill="#FFF3F3" cx="27.8495935" cy="27.8774272" rx="27.8495935" ry="27.8774272"></ellipse>
+                        <g id="编组-5备份-9" transform="translate(16.170732, 12.589806)">
+                            <path d="M4.91797229,3.72946019 C5.61644363,4.82343518 5.9656793,7.01138517 5.9656793,10.2933101 C5.9656793,13.5752351 5.9656793,19.6418237 5.9656793,28.4930759" id="路径-10" stroke="#EE5B5B" stroke-width="1.492992" opacity="0.9" stroke-linecap="round"></path>
+                            <path d="M8.64820964,0.895070447 C6.85985608,4.07754315 5.9656793,6.76275449 5.9656793,8.95070447" id="路径-11" stroke="#EE5B5B" stroke-width="1.492992" stroke-linecap="round"></path>
+                            <path d="M15.6525944,0 C11.5791224,3.08302043 9.54238642,6.06658858 9.54238642,8.95070447 C9.54238642,11.8348203 9.54238642,18.9953839 9.54238642,30.4323952" id="路径-12" stroke="#EE5B5B" stroke-width="1.492992" stroke-linecap="round"></path>
+                            <path d="M15.6480937,3.72946019 C14.0087696,4.17699542 9.54238642,5.6687795 9.54238642,10.2933101" id="路径-14" stroke="#EE5B5B" stroke-width="1.492992" opacity="0.9" stroke-linecap="round"></path>
+                            <path d="M12.6720052,8.20481243 C14.6093882,8.20481243 19.9744489,6.11631472 21.315714,9.39823969 C22.6569792,12.6801647 23.9982444,26.4045782 18.7822132,27.5980054 C13.5661819,28.7914327 1.34576594,22.5259396 0.153530228,14.9178408 C-1.03870548,7.30974198 5.07150252,7.01138517 6.11470876,7.01138517 C8.35015072,7.01138517 10.7346221,8.20481243 12.6720052,8.20481243 Z" id="路径-9" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
